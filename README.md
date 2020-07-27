@@ -1,3 +1,3 @@
 # hello-world
-First repository
+First repository.  
 Now, the first edit.
